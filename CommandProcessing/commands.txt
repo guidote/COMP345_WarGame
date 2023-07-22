@@ -1,0 +1,8 @@
+loadmap ../Map/canada.map
+validatemap
+addplayer Owen
+addplayer Gabbi
+addplayer Audrey
+addplayer Joe
+addplayer MJ
+gamestart
